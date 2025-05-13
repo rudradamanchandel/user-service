@@ -1,0 +1,7 @@
+/Users/rudradamanchandel/Downloads/user-service/src/main/java/com/example/userservice/UserServiceApplication.java
+/Users/rudradamanchandel/Downloads/user-service/src/main/java/com/example/userservice/controller/UserController.java
+/Users/rudradamanchandel/Downloads/user-service/src/main/java/com/example/userservice/repository/UserRepository.java
+/Users/rudradamanchandel/Downloads/user-service/src/main/java/com/example/userservice/model/User.java
+/Users/rudradamanchandel/Downloads/user-service/src/main/java/com/example/userservice/service/impl/UserServiceImpl.java
+/Users/rudradamanchandel/Downloads/user-service/src/main/java/com/example/userservice/service/UserService.java
+/Users/rudradamanchandel/Downloads/user-service/src/main/java/com/example/userservice/aspect/LoggingAspect.java
